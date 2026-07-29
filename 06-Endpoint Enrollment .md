@@ -322,10 +322,10 @@ This phase reinforced several important operational and troubleshooting principl
 
 # Current Project Status
 
-- ✅ VirtualBox environment configured.
-- ✅ Ubuntu Server hosting the Wazuh platform.
-- ✅ Wazuh Manager, Indexer, Dashboard, and Filebeat operational.
-- ✅ Windows Server successfully enrolled as a Wazuh Agent.
+- VirtualBox environment configured.
+- Ubuntu Server hosting the Wazuh platform.
+- Wazuh Manager, Indexer, Dashboard, and Filebeat operational.
+- Windows Server successfully enrolled as a Wazuh Agent.
 
 ---
 
